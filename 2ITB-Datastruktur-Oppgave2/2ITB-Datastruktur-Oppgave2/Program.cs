@@ -1,4 +1,4 @@
-namespace _2ITB_Datastruktur_Oppgave1
+namespace _2ITB_Datastruktur_Oppgave2
 {
     internal static class Program
     {
